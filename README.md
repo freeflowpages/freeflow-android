@@ -7,7 +7,7 @@ Welcome to the FreeflowPages android APP
 
 ## Where to download APP?
 
-- For now you can download the latest `APK` from [HERE](https://github.com/freeflowpages/freeflow-android/raw/master/app/release/app-release.apk)
+- For now you can download the latest `APK` from [HERE](https://github.com/freeflowpages/freeflow-android/raw/master/app/release/app-debug.apk)
 - Soon we are going to publish the application on `Google play store`
 
 
